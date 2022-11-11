@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+
+}
+
+body {
+	background-color: blueviolet;
+
+}
+
+.cabecalho {
+	background: darkblue;
+	font-size: 18px;
+
+}
+
+.cabecalho__titulo {
+	text-align: center;
+	color: floralwhite;
+
+}
+
+.cabecalho__lista {
+	font-size: 30px;
+	right: 600px;
+}
